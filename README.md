@@ -20,7 +20,7 @@ Senior Software Developer with over 20 years of experience crafting scalable, re
 
 ## 💼 Experience Highlights
 - **iFood (Jan 2025 - Present)**: Built microservices from scratch, including a WhatsApp-integrated app and AI bot for beverage sales.
-- **Rodolfo de Paula LTDA (Mar 2023 - Aug 2025)**: Developed and rewrote microservices, created proof-of-concepts.
+- **Athenaworks (Mar 2023 - Aug 2025)**: Developed and rewrote microservices, created proof-of-concepts.
 - **Grupo Boticário (May 2022 - Dec 2022)**: Fixed performance issues, improved reliability with reactive stack.
 - **Banco Itaú & Zup Innovation (Feb 2021 - May 2022)**: Designed checkout microservices, introduced reactive stack.
 
